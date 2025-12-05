@@ -1,7 +1,7 @@
 package com.Static_Final;
 
 class Parent {
-	final void display() {
+	void display() {
 		System.out.println("Parent class");
 	}
 
